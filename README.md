@@ -20,6 +20,4 @@ pip install --upgrade ClointFusion
 -  Bot Takes care of other part
 - You can undo Everything Back to normal  
 
-#enjoycoding :smily:
-
- 
+#enjoycoding  :basecamp: :octocat:
